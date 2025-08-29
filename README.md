@@ -1,5 +1,7 @@
-# Job Advertisement Fraud Detection Using Machine Learning  
+<img width="1050" height="525" alt="image" src="https://github.com/user-attachments/assets/9c15f486-d456-44e1-a5a3-0ddfb05a38a0" />
 
+
+# Job Advertisement Fraud Detection Using Machine Learning  
 ## 🔍 Overview  
 This project focuses on detecting fraudulent job postings using **machine learning techniques**. Fake job postings pose serious risks to job seekers, leading to scams and data theft. By leveraging **data science, NLP, and classification algorithms**, this project builds a model capable of distinguishing real job listings from fraudulent ones.
 
